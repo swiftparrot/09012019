@@ -12,4 +12,4 @@ workflows:
 
       - cypress/run:
           record: true
-          key: c1c379a2-8465-4017-8c0a-a46197423d9b
+          
